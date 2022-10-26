@@ -1,0 +1,114 @@
+body, h1, h2, h3 {
+    margin: 0;
+}
+h1 {
+    text-align: center;
+    padding-top: 180px;
+    font-family: myFirstFont;
+    color: rgb(102, 191, 191);
+    font-size: 80px;
+    font-weight: 600;
+}
+h2, .text-clr {
+    text-align: center;
+    padding-top: 20px;
+    color: rgb(102, 191, 191);
+    font-family: cursive;
+    font-size: 30px;
+}
+h3 {
+    /* padding-top: 20px; */
+    color: rgb(102, 191, 191);
+    font-family: cursive;
+    /* font-size: 30px; */
+}
+hr {
+    border-top: 8px dotted rgb(234, 246, 246);
+    margin: auto;
+    width: 70px;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    padding-bottom: 40px;
+}
+.name-container {
+    background-color: rgb(228, 249, 245);
+}
+.cloud-img-first {
+    position: absolute;
+    right: 23%;
+    padding-top: 40px;
+}
+.cloud-img-second {
+    position: absolute;
+    left: 23%;
+    padding-top: 40px;
+}
+.mountain-img {
+    display: block;
+    margin: auto;
+    padding-top: 30px;
+}
+.desc {
+    margin: auto;
+    width: 30%;
+    font-size: 20px;
+    text-align: center;
+    padding: 20px 0px 100px;
+}
+.profile {
+    display: block;
+    margin: auto;
+    width: 12%;
+    padding-top: 100px;
+}
+.skill-container {
+    margin: 100px auto;
+    width: 50%;
+}
+.skill-img {
+    border-radius: 50%;
+    width: 150px;
+    margin-right: 40px;
+    float: left;
+}
+.skill-description {
+    font-size: 20px;
+    margin-top: 10px;
+}
+.get-in {
+    text-align: center;
+    color: rgb(102, 191, 191);
+    font-family: cursive;
+    font-size: 20px;
+    margin-top: 30px;
+}
+.button {
+    margin: 0px auto 100px;
+    background-color: rgb(102, 191, 191);
+    padding: 10px;
+    border-radius: 6px;
+    font-size: 18px;
+    display: block;
+    text-align: center;
+    width: 140px;
+}
+.footer-container {
+    background-color: #66BFBF;
+    padding: 50px 0px 20px;
+    text-align: center;
+    color: #fff;
+}
+a {
+    text-decoration: none;
+    padding: 0px 30px;
+    color: #fff;
+    font-size: 16px;
+}
+.social-icons {
+    margin: auto;
+}
+.copyright {
+    margin: 40px 0px 20px;
+    font-size: 13px;
+}
